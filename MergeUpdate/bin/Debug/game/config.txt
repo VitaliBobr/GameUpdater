@@ -1,0 +1,2 @@
+lic.txt +-+ c234ebefeb1364a9d491b33664fb7ba7
+rofl.txt +-+ d41d8cd98f00b204e9800998ecf8427e

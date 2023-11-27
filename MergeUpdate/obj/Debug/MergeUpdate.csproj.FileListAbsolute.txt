@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\MergeUpdate.exe.config
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\MergeUpdate.exe
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\MergeUpdate.pdb
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\obj\Debug\MergeUpdate.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\obj\Debug\MergeUpdate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\obj\Debug\MergeUpdate.exe
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\obj\Debug\MergeUpdate.pdb
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\User\source\repos\MergeUpdate\MergeUpdate\obj\Debug\MergeUpdate.csproj.CopyComplete
